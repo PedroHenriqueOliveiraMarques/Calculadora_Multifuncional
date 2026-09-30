@@ -1,6 +1,5 @@
 name: Automação da Calculadora
 
-
 on:
   push:
     branches:
